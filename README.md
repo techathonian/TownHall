@@ -1,2 +1,2 @@
 # TownHall
-Open source virtual platform for tech communities
+Open source virtual communication platform for tech communities
